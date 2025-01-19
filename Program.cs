@@ -9,7 +9,7 @@ namespace oop
         {
             #region 1
             //    int result;
-            //    result = Calculator.Sum(45, 20);
+            //    result = Calculator.Sum(45, 30);
             //    Console.WriteLine(result);
             #endregion
             #region 2
